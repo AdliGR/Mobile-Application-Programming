@@ -1,0 +1,4 @@
+Kesimpulan
+applikasi berjalan dengan baik.
+Semua bentuk  Rectangel, Oval, Line, Path berjalan dengan baik.
+perubahan warnanya juga sudah benar menggunakan RGB.
